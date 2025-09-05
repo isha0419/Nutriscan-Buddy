@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-green-50 font-sans;
+}
+
+button {
+  @apply cursor-pointer;
+}
